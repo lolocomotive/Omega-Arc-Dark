@@ -9,7 +9,7 @@
         "ApproximateExpressionText": "8e9297",
         "Background": {
             "Hard": "2b2e39",
-            "Apps": "2b2e39",
+            "Apps": "323542",
             "AppsSecondary": "505666"
         },
         "Toolbar": {
@@ -17,7 +17,7 @@
             "Text": "d3dae3"
         },
         "ExpressionInput": {
-            "Background": "2b2e39",
+            "Background": "323542",
             "Border": "262626"
         },
         "Grid": {
@@ -40,16 +40,16 @@
         },
         "Calculation": {
             "BackgroundOdd": "2b2e39",
-            "BackgroundEven": "505666",
+            "BackgroundEven": "383c4a",
             "EmptyBox": "505666",
             "EmptyBoxNeeded": "62a0ea",
             "TrigoAndComplexForeground": "f66151"
         },
         "Code": {
             "Background": "2b2e39",
-            "BackgroundSelected": "29304d",
+            "BackgroundSelected": "383c4a",
             "Text": "e4e6e7",
-            "Comment": "444a58",
+            "Comment": "717786",
             "Number": "ffbe6f",
             "Keyword": "dc8add",
             "Operator": "99c1f1",
@@ -87,13 +87,13 @@
             "CellBorder": "444a58"
         },
         "Button": {
-            "Background": "2b2e39",
+            "Background": "383c4a",
             "BackgroundSelected": "444a58",
             "BackgroundSelectedHighContrast": "a6a6a6",
-            "Border": "2b2e39",
-            "RowBorder": "2b2e39",
-            "BorderOut": "2b2e39",
-            "Shadow": "112e51",
+            "Border": "000000",
+            "RowBorder": "3f618e",
+            "BorderOut": "323542",
+            "Shadow": "2b2e39",
             "Text": "d3dae3"
         },
         "Tab": {
