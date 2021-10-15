@@ -10,7 +10,7 @@
         "Background": {
             "Hard": "2b2e39",
             "Apps": "2b2e39",
-            "AppsSecondary": "2b2e39"
+            "AppsSecondary": "383c4a"
         },
         "Toolbar": {
             "": "5294e2",
@@ -21,7 +21,7 @@
             "Border": "262626"
         },
         "Grid": {
-            "PrimaryLine": "2b2e39",
+            "PrimaryLine": "383c4a",
             "SecondaryLine": "444a58"
         },
         "Battery": {
@@ -83,7 +83,7 @@
         },
         "List": {
             "CellBackground": "2b2e39",
-            "CellBackgroundSelected": "444a58",
+            "CellBackgroundSelected": "383c4a",
             "CellBorder": "444a58"
         },
         "Button": {
