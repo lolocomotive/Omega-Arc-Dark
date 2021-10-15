@@ -18,7 +18,7 @@
             "Text": "d3dae3"
         },
         "ExpressionInput": {
-            "Background": "505666",
+            "Background": "323542",
             "Border": "262626"
         },
         "Grid": {
@@ -84,7 +84,7 @@
         },
         "List": {
             "CellBackground": "2b2e39",
-            "CellBackgroundSelected": "505666",
+            "CellBackgroundSelected": "383c4a",
             "CellBorder": "323542"
         },
         "Button": {
