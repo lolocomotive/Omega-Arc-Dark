@@ -2,6 +2,7 @@
     "name": "Arc Dark",
     "icons": "arc_dark",
     "colors": {
+        "WallScreen": "2b2e39",
         "Select": "444A58",
         "PrimaryText": "d3dae3",
         "SecondaryText": "8e9297",
