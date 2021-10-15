@@ -9,6 +9,7 @@ Contains source SVGs for app icons
 ![image](https://user-images.githubusercontent.com/49951010/136583392-5ac2ec80-4d47-4ce0-a108-7f4e6eb34a0d.png)
 
 To use this theme, add `THEME_NAME` and `THEME_REPO` arguments to your `make` command:
+Notice: I made some tweaks to the operating system itself to be able to modify certain colors, if you want to be sure that it works, clone lolocomotive/Upsilon instead of any other operating system.
 
 ```bash
 $ make THEME_NAME=arc_dark THEME_REPO=https://github.com/lolocomotive/Omega-Arc-Dark
