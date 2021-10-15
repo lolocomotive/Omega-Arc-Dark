@@ -2,6 +2,7 @@
     "name": "Arc Dark",
     "icons": "arc_dark",
     "colors": {
+        "Select": "ff0000",
         "PrimaryText": "d3dae3",
         "SecondaryText": "8e9297",
         "AccentText": "5294e2",
